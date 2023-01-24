@@ -1,0 +1,4 @@
+Hány útvonal van az adatbázisban?
+Mely útvonal esetén nem szerepel a "tan" szócska?
+Mely útvonalak rövidebbek, mint 1km?
+Átlag milyen hosszú egy tanösvény?

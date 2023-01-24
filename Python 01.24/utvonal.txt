@@ -1,0 +1,145 @@
+nev	hossz	allomas
+Anna-ligeti tanösvény 	2	8
+Apródok útja tanösvény 	7,2	8
+Aqua Colun tanösvény 	3,5	5
+Árpád fejedelem tanösvény 	3	11
+Ártéri tanösvény 	0,5	4
+Babócsai Basa-kert tanösvény 	1	2
+Baradla tanösvény 	7,5	18
+Bárányfoki tanösvény 	2,1	6
+Báránypirosító tanösvény 	1,6	5
+Barát-réti tanösvény 	6,5	4
+Barcsi Borókás tanösvény 	2	4
+Bazaltorgonák tanösvény 	4	7
+Bél-kõi tanösvény 	5	7
+Bihari-sík tanösvény 	7,2	20
+Bodrogzugi vízitúra tanösvény 	5	3
+Bódva-völgyi tanösvény 	2,5	7
+Boróka tanösvény 	2,9	5
+Boros-Dráva tanösvény 	1	2
+Boroszlán tanösvény 	7	8
+Boszorkány-kõ geológiai tanösvény 	0,4	13
+Bõköz tanösvény 	4	6
+Bölömbika tanösvény 	3	6
+Búbos vöcsök tanösvény 	1,5	13
+Buda-hegyi tanösvény	2	8
+Cankó tanösvény 	1	9
+Cégénydányádi Kastélypark tanösvény 	1,5	19
+Chernel-kerti tanösvény 	0,5	0
+Cserépfalui Ördögtorony tanösvény 	10	20
+Csipak tanösvény 	3	9
+Csodarét tanösvény 	4	10
+Csomoros-sziget tanösvény 	0,7	10
+Csörgõalma tanösvény 	0	1
+Denevér tanösvény 	5	13
+Erdei tanösvény 	2,7	6
+Eresztvényi kõbányák 	2,5	6
+Erzsébet-sziget tanösvény 	3	2
+Fekete harkály tanösvény 	5	13
+Felsõszeri tanösvény 	1,7	6
+Fóti-Somlyó tanösvény 	3,5	11
+Földtani tanösvény 	2	13
+Fürge cselle tanösvény 	3,2	8
+Fürkész ösvény 	2	12
+Górési tanösvény 	11	5
+Halásztelki tanösvény 	3	10
+Hankovszky-liget tanösvény 	0,35	8
+Hany Istók tanösvény 	5	7
+Haraszt-hegyi tanösvény 	3,5	7
+Holt-Rába tanösvény 	6	5
+Ilona-völgyi geológiai tanösvény 	6,5	9
+Ipolytarnóc - Biológiai tanösvény 	6	13
+Ipolytarnóc - Borókás-árok geológiai tanösvény 	0,8	7
+Ipolytarnóc - Kõszikla tanösvény 	0,9	20
+Ipolytarnóc - Kõzetpark 	0,7	20
+Jági tanösvény 	3,5	6
+Jakab-hegyi tanösvény 	8	10
+Jávorkúti tanösvény 	3	4
+Jónásrészi tanösvény 	5	11
+Káli-medence túrahálózat 	25	79
+Kamon-kõ tanösvény 	6	9
+Kékbegy tanösvény 	0,21	3
+Kékmoszat tanösvény 	2,4	12
+Kesznyéteni TK agrár-környezetgazdálkodási tanösvény 	4,8	6
+Kígyósi tanösvény 	5	4
+Kismély-völgyi tanösvény 	1	5
+Kisvátyoni tanösvény 	8	6
+Kitaibel tanösvény 	3	9
+Kontyvirág tanösvény 	2,4	6
+Kormorános-erdõ tanösvény 	2	6
+Kosbor tanösvény 	1,7	5
+Kõ-közi tanösvény 	0,8	5
+Kõpark tanösvény 	0,2	0
+Körtike tanösvény 	6,2	11
+Kövi benge tanösvény 	0,3	20
+Lóczy gejzír-sétaút 	18	15
+Madarak és fák útja 	1	5
+Madárvédelmi tanösvény 	0,3	8
+Mágor-pusztai tanösvény 	0,5	5
+Magyar-bányai kõpark 	0,15	13
+Mérus-erdõ tanösvény 	1	1
+Millenniumi természetismereti és erdészeti bemutató sétaút 	2,5	20
+Nagymezõ - Kis-kõháti-zsomboly tanösvény 	3	3
+Nagypartosi tanösvény 	2,5	6
+Nagy-Szénás tanösvény 	2,1	7
+Nyéki-Holt-Duna tanösvény 	2,2	6
+Óbányai Pro Silva tanösvény 	2	5
+Olasz-kapui tanösvény 	7,2	6
+Orfûi Vízfõ tanösvény 	1	4
+Öregtavi tanösvény 	25	18
+Õrtilosi Dráva-ártér tanösvény 	2	0
+Paksi Ürge-mezõ tanösvény 	4	11
+Pálfája tanösvény 	1,8	10
+Páskom legelõ tanösvény 	3	6
+Pele apó ösvénye 	8,5	38
+Pele körút 	0,8	10
+Pimpó tanösvény 	5,8	6
+Poszáta tanösvény 	2	8
+Ravazd-Sokorópátkai tanösvény 	15	3
+Réce tanösvény 	1	5
+Réhelyi tanösvény 	1,5	8
+Rejtek - Répáshuta tanösvény 	9	12
+Rekettye tanösvény 	2,3	6
+Rezgõnyár tanösvény 	0,3	7
+Ság-hegy élõvilága 	0,2	13
+Ság-hegyi geológiai tanösvény 	1	18
+Salgó - Somoskõ vára tanösvény 	3,5	6
+Sárgaliliom tanösvény 	6,2	11
+Sár-hegyi természetismereti tanösvény 	7	12
+Sas-hegy tanösvény 	0,85	7
+Sáskajárás sétaút 	0,8	8
+Selyem-réti tanösvény 	1,5	6
+Sirály tanösvény 	2	5
+Sóvirág tanösvény 	0,5	0
+Sötét-völgyi tanösvény 	4,3	9
+Strázsa-hegyi tanösvény 	1,2	7
+Szádvár tanösvény 	4,5	12
+Szalajka-völgyi természetvédelmi bemutatóösvény 	4,2	10
+Szala menti tanösvény 	3,8	9
+Szálkahalmi tanösvény 	1,1	5
+Szarvaskõi geológiai tanösvény 	8,8	11
+Szeremlei-Holt-Duna tanösvény 	2,4	6
+Szigetközi Ökoturisztikai Bemutató Útvonal 	18	12
+Sziki õszirózsa tanösvény 	4	10
+Szilvás-kõi geológiai tanösvény 	3,5	12
+Szinva tanösvény 	4	6
+Szomoróczi tanösvény 	3	6
+Tanösvény a Turjánban 	1,2	9
+Tarpai Szõlõ-hegy tanösvény 	3	6
+Templom-hegyi tanösvény 	2	6
+Pannonhalmi arborétum	1,5	3
+Tisza-tavi vízi sétány és tanösvény 	1,5	4
+Tohonya-Kuriszlán tanösvény II. útvonal 	9	25
+Tohonya-Kuriszlán tanösvény I. útvonal 	4,5	12
+Tõzike tanösvény 	3	5
+Tüskés-réti tanösvény 	1	4
+Újmohácsi tanösvény 	3,1	7
+Üde rétek tanösvény 	3	5
+Várdomb tanösvény 	0,3	6
+Vár-hegyi tanösvény 	10	6
+Vártúra ösvény 	1,2	0
+Vár-völgyi földtani tanösvény 	3	10
+Vasút-oldali túraútvonal 	10	1
+Vizi Rence Túraútvonal 	6	0
+Vöcsök tanösvény 	3,2	7
+Vörös-mocsár tanösvény 	2,5	2
