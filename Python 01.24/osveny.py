@@ -29,6 +29,30 @@ for i in range(len(file_data)):
     if("tan" not in file_data[i][0].lower()):
         print(file_data[i][0])
         
-for i in range(len(file_data)):
+'''for i in range(len(file_data)):
     if(file_data[i][1]<1):
-        file2_rovid.append(file_data[i])
+        file2_rovid.append(file_data[i])'''
+
+#<xkm     
+max=float(input("Maximum hány km mennél: "))
+
+
+ 
+for i in range(len(file_data)):
+    if(file_data[i][1]<=max):
+        file2.write(file_data[i][0]+"\t"+file_data[i][2]+"\n")
+        
+#Átlag hossz
+osszeg = 0
+
+for i in range(len(file_data)):
+    osszeg+=file_data[i][1]
+    
+print("Az út  átlagos hossza: ", round(osszeg/len(file_data),2))
+
+#keresett
+keres = input("Keresett útvonal: ")
+
+for i in range(len(file_data)):
+    if(keres.lower() in file_data[i][0].lower()):
+        print(file_data[i][0]+"\t"+str(file_data[i][1])+file_data[i][2])
