@@ -32,19 +32,20 @@ for i in range(len(Lfile)):
    osszeg += int(Lfile[i][2])
    
 print("A játékosok átlag magassága: ", round(osszeg/len(Lfile),2))
+
 #keresés mezszám alapján:
-keres = (input("Keresett mezszám: "))
+keres = input("Keresett mezszám: ")
 
 for keres in range(len(Lfile)):
     if(keres == (Lfile[i][1])):
-        print(Lfile[i][0]+"\t"+str(Lfile[i][1])+Lfile[i][2])
+        print("A játékos: ", Lfile[i][0])
     else:
         print("Ilyen mezszám nem található a csapatban")
 
 
 #3
-for i in range(len(Lfile)):
+'''for i in range(len(Lfile)):
     (poszt.append(Lfile[i][3]))
 
-print("Ennyi Center: ", poszt.count("center"),"Ennyi Bedobó: ", poszt.count("bedobó"),"Ennyi irányitó: ", poszt.count("irányító"))
+print("Ennyi Center: ", poszt.count("center"),"Ennyi Bedobó: ", poszt.count("bedobó"),"Ennyi irányitó: ", poszt.count("irányító"))'''
     
