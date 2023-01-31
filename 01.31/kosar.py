@@ -44,7 +44,7 @@ for keres in range(len(Lfile)):
 
 #3
 for i in range(len(Lfile)):
-    poszt.append(Lfile[i][3])
-    
+    (poszt.append(Lfile[i][3]))
+
 print("Ennyi Center: ", poszt.count("center"),"Ennyi Bedobó: ", poszt.count("bedobó"),"Ennyi irányitó: ", poszt.count("irányító"))
     
