@@ -7,7 +7,7 @@ file = open("jatekos2.txt","r")
 Lfile = []
 
 for i in file:
-    if(i[-1]=='\n'):
+    if(i[-1]=='\t'):
         Lfile.append(i[:-1].split('\t'))
     else:
         Lfile.append(i.split('\t'))
