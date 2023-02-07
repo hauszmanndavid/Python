@@ -7,7 +7,7 @@ file = open("jatekos2.txt","r")
 Lfile = []
 
 for i in file:
-    if(i[-1]=='\t'):
+    if(i[-1]=='\n'):
         Lfile.append(i[:-1].split('\t'))
     else:
         Lfile.append(i.split('\t'))
@@ -44,8 +44,10 @@ for keres in range(len(Lfile)):
 
 
 #3
-'''for i in range(len(Lfile)):
+poszt = 0
+
+for i in range(len(Lfile)):
     (poszt.append(Lfile[i][3]))
 
-print("Ennyi Center: ", poszt.count("center"),"Ennyi Bedobó: ", poszt.count("bedobó"),"Ennyi irányitó: ", poszt.count("irányító"))'''
+print("Ennyi Center: ", poszt.count("center"),"Ennyi Bedobó: ", poszt.count("bedobó"),"Ennyi irányitó: ", poszt.count("irányító"))
     
